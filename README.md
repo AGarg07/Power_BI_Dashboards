@@ -9,7 +9,7 @@ This dashboard solves one of the key problems that job seekers have: information
 
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_dashboard.pbix`](Data_Jobs_dashboard.pbix).  
+You can find the file for the dashboard here: [`Data_Jobs_dashboard.pbix`](1_Data_Jobs_dashboard.pbix).  
 
 ## Skills Showcased
 
