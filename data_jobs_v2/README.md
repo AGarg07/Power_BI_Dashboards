@@ -7,7 +7,7 @@
 Navigating the data job market in today's fast pace world can feel overwhelming. This dashboard (V2.0) is designed specifically for anyone looking for employment in the Data Science field to cut through the noise! Using a real-world dataset of 2023-25 data science job postings—rich with details on titles, salaries, and locations—this project offers a streamlined, single-page interface to quickly explore crucial market trends and compensation insights.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](/data_jobs_v2/2_Dashboard.pbix)
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](https://drive.google.com/drive/folders/1s31V5zNfGpNDN1PPGl2EzoCPNr6-pWKp)
 
 ## Skills Showcased
 
@@ -32,7 +32,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 This second iteration consolidates the dashboard into a **single, focused page**, designed to give job seekers the most critical market insights at their fingertips.
 
-![Data Jobs Dashboard v2.0](/images/powerbi_db2.png) 
+![Data Jobs Dashboard v2.0](/images/powerbi_db2_1.png) 
 
 This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
 
